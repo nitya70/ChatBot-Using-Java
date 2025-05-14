@@ -7,12 +7,18 @@ A Java-based client-server chatbot application developed using the NetBeans IDE.
 ## 📂 Project Structure
 
 Chatbot-Java/
+
 │
 ├── backend/ # Core logic and data handling
+
 ├── frontend/ # GUI components for client interaction
+
 ├── chatserversocket/ # Server-client socket communication
+
 ├── build.xml # Ant build script for NetBeans
+
 ├── manifest.mf # Manifest for JAR packaging
+
 ├── README.md # Project documentation
 
 
